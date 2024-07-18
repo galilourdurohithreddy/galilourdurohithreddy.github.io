@@ -4,7 +4,7 @@
 	"description": "Personal portfolio template built using Reactjs",
 	"license": "MIT",
 	"private": true,
-	"homepage": "http://{galilourdurohithreddy}.github.io/{galilourdurohithreddy.github.io}",
+	"homepage": "http://galilourdurohithreddy.github.io/rohithportfolio",
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
 		"@fortawesome/free-brands-svg-icons": "^6.4.0",
