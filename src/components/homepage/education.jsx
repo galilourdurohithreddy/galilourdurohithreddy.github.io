@@ -33,11 +33,11 @@ const Education = () => {
 						<div className="education">
 							<img
 								src="./jntuh.jpg"
-								alt="Jawaharlal Nehru Technological University Hyderabad"
+								alt="Jawaharlal Nehru Technological University"
 								className="education-image"
 							/>
 							<div className="education-title">
-								Jawaharlal Nehru Technological University Hyderabad
+								Jawaharlal Nehru Technological University
 							</div>
 							<div className="education-subtitle">
 								Mechanical Engineering
