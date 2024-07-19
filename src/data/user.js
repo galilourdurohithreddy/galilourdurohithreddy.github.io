@@ -19,7 +19,7 @@ const INFO = {
 	homepage: {
 		title: "Full-Stack Developer | Building Interactive End-to-End Web Experiences",
 		description:
-			"I'm a highly motivated full-stack developer with a proven track record of building modern, scalable web applications. My passion lies in leveraging cutting-edge technologies to solve complex problems and create exceptional user experiences. With a Master's degree in Computer Science and over 5 years of industry experience, I bring a blend of theoretical knowledge and practical expertise to every project.",
+			"I'm a highly motivated full-stack developer with a proven track record of building modern, scalable web applications. My passion lies in leveraging cutting-edge technologies to solve complex problems and create exceptional user experiences. With a Master's degree in Computer Science and over 6 years of industry experience, I bring a blend of theoretical knowledge and practical expertise to every project.",
 	},
 
 	about: {
